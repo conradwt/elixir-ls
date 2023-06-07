@@ -106,7 +106,7 @@ Erlang:
 |  OTP 23  |    Yes    |   None   |
 |  OTP 24  |    Yes    |   None   |
 |  OTP 25  |    Yes    |   None   |
-|  OTP 26  |    No     |  `#886`  |
+|  OTP 26  |    No     |   [#886](https://github.com/elixir-lsp/elixir-ls/issues/886)   |
 
 It is generally recommended to install Elixir and Erlang via [ASDF](https://github.com/asdf-vm/asdf) so that you can have different projects using different versions of Elixir without having to change your system-installed version. ElixirLS can detect and use the version of Elixir and Erlang that you have configured in ASDF.
 
